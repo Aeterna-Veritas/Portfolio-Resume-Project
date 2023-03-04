@@ -1,0 +1,52 @@
+
+
+html {
+    width: auto;
+    overflow: scroll;
+    font: arial;
+   
+}
+
+.name {
+    font-size: 2.5em;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+  }
+  .nav_buttons {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 15px; 
+    margin-right: 20px; 
+  }
+  button {
+    float: right;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-top: -65px;
+    text-align: center;
+    border-radius: 20px;
+    margin-right: 18px;
+  }
+  button a {
+    text-decoration: none;
+    color: black;
+  }
+  button:hover {
+    background-color: lightgrey;
+  }
+  
+ 
+  
+  
+  
+  
+  
